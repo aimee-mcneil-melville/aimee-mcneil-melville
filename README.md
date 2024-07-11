@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi, I'm Aimee!
+
+My transition into web development has been one of the most exciting and rewarding adventures I've undertaken. I bring with me a background in operations management, finance, and customer service. While my previous roles were multi-faceted, one of my favourite parts was learning how to build and expand our database software. This enjoyment has led me to pursue software development as a career and complete the bootcamp at Dev Academy Aotearoa.
+
+I am currently working on a personal project and have some group collaborations underway.
+
+My final group project at Dev Academy has plans for the future, check out the current deployed site here - https://trip-hive.devacademy.nz/
+This was created by a group of four, with 8 days from the initial idea through to presentation of the project at our Showcase evening. We plan to continue working on this to implement new features and expand the project.
+
+I'm going to continue working on projects and expanding my knowledge base - check out my pinned repos for some of my projects and feel free to contact me on Linkedin!
+
 
 <!--
 **aimee-mcneil-melville/aimee-mcneil-melville** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
