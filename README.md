@@ -4,7 +4,7 @@ My transition into web development has been one of the most exciting and rewardi
 
 I am currently working on a personal project and have some group collaborations underway.
 
-My final group project at Dev Academy has plans for the future, check out the current deployed site here - https://trip-hive.devacademy.nz/
+My final group project at Dev Academy has plans for the future, check out the current deployed site here - https://triphive.pushed.nz/
 This was created by a group of four, with 8 days from the initial idea through to presentation of the project at our Showcase evening. We plan to continue working on this to implement new features and expand the project.
 
 I'm going to continue working on projects and expanding my knowledge base - check out my pinned repos for some of my projects and feel free to contact me on Linkedin!
