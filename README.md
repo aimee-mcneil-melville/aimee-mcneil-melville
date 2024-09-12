@@ -1,10 +1,16 @@
 ## Hi, I'm Aimee!
 
+<div id="header" align="center">
+<img src="https://github.com/user-attachments/assets/cb96c778-d306-4935-a7e8-dd5d18f1442e" width="200" height="200">
+</div>
+
 
 Currently on the go :rainbow: :tulip: :sunny:
 - 9/09/2024 - Group personal project Dev-Search, using a Github API, React, Typescript, Tailwind
 - 3/09/2024 - AWS Serverless study  
 - 19/08/2024 - 10KWomen AI Advantage course, Microsoft AI-900 Certification study in progress...
+</div>
+
 
 **See my personal portfolio here! - https://aimeenz.com**
 
